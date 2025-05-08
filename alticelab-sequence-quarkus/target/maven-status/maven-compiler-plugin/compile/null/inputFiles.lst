@@ -1,7 +1,0 @@
-D:\Code\alticelab-sequence-quarkus\src\main\java\org\acme\ApiApplication.java
-D:\Code\alticelab-sequence-quarkus\src\main\java\org\acme\cache\Cache.java
-D:\Code\alticelab-sequence-quarkus\src\main\java\org\acme\dto\ResponseDTO.java
-D:\Code\alticelab-sequence-quarkus\src\main\java\org\acme\exceptions\NegativeNumberException.java
-D:\Code\alticelab-sequence-quarkus\src\main\java\org\acme\exceptions\NegativeNumberExceptionMapper.java
-D:\Code\alticelab-sequence-quarkus\src\main\java\org\acme\LabSequenceResource.java
-D:\Code\alticelab-sequence-quarkus\src\main\java\org\acme\services\LabSequenceService.java
